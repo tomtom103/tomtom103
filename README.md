@@ -1,6 +1,8 @@
 # Hey There! <img src="https://raw.githubusercontent.com/tomtom103/tomtom103/main/wave.gif" width="30px">
 
-My name is Thomas Caron and I am a third year Computer Engineering student @ Polytechnique Montréal 📚, currently living in Montréal and looking for my last internship before I graduate! You can find me on [![LinkedIn][3.2]][2].
+My name is Thomas Caron and I am a third year Computer Engineering student @ Polytechnique Montréal 📚, currently living in Montréal and looking for my last internship before I graduate! 
+
+You can find me on [![LinkedIn][3.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
