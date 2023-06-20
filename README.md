@@ -10,7 +10,9 @@ Also currently learning:
 * Rust
 * Svelte
 
-## Current Open Source contributions:
+## Open Source Contributions:
+
+I contribute open source whenever I get frustrated at a library, don't expect to see much here.
 
 - 📈 Improved typing hints for [prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator/releases/tag/v5.11.1)
 - 📚 More to come!
