@@ -10,10 +10,6 @@ Also currently learning:
 * Rust
 * Svelte
 
-## Open Source Contributions:
-
-I contribute open source whenever I get frustrated at a library, don't expect to see much here.
-
 ## You can find me on:
 
 * [Github (you are here)](https://github.com/tomtom103)
