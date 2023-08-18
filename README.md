@@ -14,9 +14,6 @@ Also currently learning:
 
 I contribute open source whenever I get frustrated at a library, don't expect to see much here.
 
-- 📈 Improved typing hints for [prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator/releases/tag/v5.11.1)
-- 📚 More to come!
-
 ## You can find me on:
 
 * [Github (you are here)](https://github.com/tomtom103)
