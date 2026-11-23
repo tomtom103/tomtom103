@@ -1,17 +1,18 @@
-# Hey There! I'm Thomas <img src="https://raw.githubusercontent.com/tomtom103/tomtom103/main/wave.gif" width="30px">
+# Hey there! I'm Thomas <img src="https://raw.githubusercontent.com/tomtom103/tomtom103/main/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomtom103&color=green" alt="tomtom103" /> </p>
 
-I'm a Software developer from Montréal, Canada. Current timezone: UTC-4.
+I'm a software developer from Montréal, Canada.
 
-Currently focusing on Python development, mostly [FastAPI](https://github.com/tiangolo/fastapi) and my own libraries for work and fun.
+Most of my code lives in a private monorepo now, so this profile is pretty quiet. The stuff I can show is on my site:
+[thomascaron.cloud](https://thomascaron.cloud).
 
-Also currently learning:
-* Rust
-* Svelte
+Lately I've been building Commons, a workspace where a bunch of coding agents can work on the same repo at once and
+see each other's changes as they go, instead of finding out at merge time. Mostly Python and TypeScript, deployed on
+Cloudflare.
 
 ## You can find me on:
 
-* [Github (you are here)](https://github.com/tomtom103)
+* [My site](https://thomascaron.cloud)
 * [LinkedIn](https://www.linkedin.com/in/thomascaron/)
 * [My Email](mailto:thomas.caron00@gmail.com)
